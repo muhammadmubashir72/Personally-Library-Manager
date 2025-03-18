@@ -2,7 +2,8 @@ streamlit
 pandas
 matplotlib
 pillow
-sqlite3  # (Not needed in some cases, since it's built-in)
+pysqlite3
+
 # streamlit
 # pandas
 # matplotlib
